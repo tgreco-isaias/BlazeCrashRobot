@@ -1,0 +1,16 @@
+https://blaze.com/api/users/me
+https://blaze.com/api/auth/password
+https://blaze.com/api/withdrawals/pending
+https://blaze.com/api/deposits/latest
+https://blaze.com/api/notices
+https://blaze.com/api/bonus_rounds
+https://blaze.com/api/bonuses/activations HTTP/1.1
+https://blaze.com/api/bonuses/inventory
+https://blaze.com/api/payments/methods
+https://blaze.com/api/users/me/xp
+https://blaze.com/api/wallets
+https://blaze.com/api/payments/methods HTTP/1.1
+https://blaze.com/api/announcement
+https://blaze.com/api/crash_games/recent
+https://blaze.com/api/crash_games/history?startDate=2023-02-14T15:46:02.528Z&endDate=2023-03-16T15:46:02.528Z&page=1
+https://blaze.com/pt/?modal=auth&tab=login
