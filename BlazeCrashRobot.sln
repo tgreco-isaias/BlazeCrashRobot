@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazeCrashRobot", "BlazeCrashRobot.csproj", "{1B14358C-80E4-4039-B754-F8C07580761E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazeRobot", "..\BlazeRobot\BlazeRobot.csproj", "{5B195CA6-485E-4B1D-AFE9-926E6F29A569}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazeRobot", "BlazeRobot\BlazeRobot.csproj", "{5B195CA6-485E-4B1D-AFE9-926E6F29A569}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

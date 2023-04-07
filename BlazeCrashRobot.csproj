@@ -98,8 +98,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BlazeRobot\BlazeRobot.csproj">
-      <Project>{5b195ca6-485e-4b1d-afe9-926e6f29a569}</Project>
+    <ProjectReference Include="BlazeRobot\BlazeRobot.csproj">
+      <Project>{5B195CA6-485E-4B1D-AFE9-926E6F29A569}</Project>
       <Name>BlazeRobot</Name>
     </ProjectReference>
   </ItemGroup>
